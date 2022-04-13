@@ -1,16 +1,11 @@
 # Theater acoustic design helper
-Description: Basically, this app is for calculating acoustic parameters of a theater using python. You can get 
-Reverberation time
-Clarity
-Gain value
-Articulation Loss of Consonants
-and other acoustic parameters 
-of your theater. You may change the shape of the theater, the material, and the absorbers you are using.
-    \begin{itemize}
-        \item Reverberation time
-        \item Clarity
-        \item Gain value
-        \item Articulation Loss of Consonants
-        \item and other acoustic parameters 
-    
-    \end{itemize}
+## Description: 
+Basically, this app is for calculating acoustic parameters of a theater **using python**. You can get 
+* Reverberation time
+* Clarity
+* Gain value
+* Articulation Loss of Consonants
+* and other acoustic parameters  of your theater
+You may change the shape of the theater, the material, and the absorbers you are using.    
+***********
+- - - - - - 
