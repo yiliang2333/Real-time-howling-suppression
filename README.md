@@ -1,11 +1,9 @@
-# Theater acoustic design helper
+#Real-time-howling-suppression
 ## Description: 
-Basically, this app is for calculating acoustic parameters of a theater **using python**. You can get:
-* Reverberation time
-* Clarity
-* Gain value
-* Articulation Loss of Consonants
-* and other acoustic parameters  of your theater
-You may change the shape of the theater, the material, and the absorbers you are using.    
+Basically, this app repo is a algorithm model **using matlab simulink**. It contains sevral methods to detect and suppress howling noise in real time.
+* NHS - Notchfilter howling suppression
+* SFM - Spectrum flatness method
+
+You can choose your audio input(Audio Device Reader in simulink) and output (Audio Device Writer in simulink) and run the algorithm to achieve howling detection and howling suppression in real-time.    
 ***********
 - - - - - - 
