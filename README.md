@@ -4,9 +4,12 @@ Basically, this app repo is a algorithm model **using matlab simulink**. It cont
 * NHS - Notchfilter howling suppression
 * SFM - Spectrum flatness method
 
-You can choose your audio input(Audio Device Reader in simulink) and output (Audio Device Writer in simulink) and run the algorithm to achieve howling detection and howling suppression in real-time.    
+You can choose your audio input(Audio Device Reader in simulink) and output (Audio Device Writer in simulink) and run the algorithm to achieve howling detection and howling suppression in real-time. The implementation is base on NHS(Notch filter howling suppressior).
 ***********
 ![image](https://user-images.githubusercontent.com/96840064/222073264-636363b1-f040-4d7e-8582-e089a947c147.png)
+
+I also have another implementation base on SFM(Spectrum flatness measurement).
+![image](https://user-images.githubusercontent.com/96840064/223676467-fde9a682-2266-4c1b-a8cd-f8af774a66a5.png)
 
 - - - - - - 
 ## Reference
