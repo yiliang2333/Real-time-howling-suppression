@@ -1,4 +1,4 @@
-#Real-time-howling-suppression
+# Real-time-howling-suppression
 ## Description: 
 Basically, this app repo is a algorithm model **using matlab simulink**. It contains sevral methods to detect and suppress howling noise in real time.
 * NHS - Notchfilter howling suppression
